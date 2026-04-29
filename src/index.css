@@ -97,8 +97,8 @@ header {
     font-family: var(--text-2);
   }
 
-  .search-input {
-  }
+  /* .search-input {
+  } */
 
   [type="submit"] {
     background-color: var(--color-3);
